@@ -1,0 +1,6 @@
+{
+  "SepoliaDeployment#ECMToken": "0x9dB8c5dBF21415852d6Fa8831c853353c0F272DF",
+  "SepoliaDeployment#MockUSDT": "0xB6947da0e0d8e0b29E478779bAE3730E8211f563",
+  "SepoliaDeployment#MockUniswapV2Pair": "0x5af70E2F014A77fdA4df2Ebb9C3454280e35a86e",
+  "SepoliaDeployment#ECMSale": "0xD0039e24d3270d9ecf5CC130EFfAD35E6e4F6a41"
+}
