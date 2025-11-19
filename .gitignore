@@ -1,5 +1,4 @@
 node_modules
-.env
 
 # Hardhat files
 /cache
@@ -17,3 +16,4 @@ node_modules
 .DS_Store
 .github
 
+config.bat
